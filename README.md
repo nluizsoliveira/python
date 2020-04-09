@@ -31,7 +31,7 @@ $ virtualenv my_virtualenv
 #### 1: Activate virtual environment:
 
 ```bash
-$ source my_venv/bin/activate
+$ source my_virtualenv/bin/activate
 ```
 
 #### 2: Install dependencies: 
