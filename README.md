@@ -1,4 +1,13 @@
 # Python study files. Created with python 3. 
+## Base steps:
+#### 0: Clone repo:
+```bash
+$ git clone https://github.com/nluizsoliveira/python
+```
+#### 0: Enter folder:
+```bash
+$ cd python/
+```
 ## Short (unsafe) way to run: 
 
 #### 0: Install dependencies: 
